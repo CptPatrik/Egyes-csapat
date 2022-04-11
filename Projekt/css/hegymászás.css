@@ -1,0 +1,33 @@
+.cím {
+    text-align: center;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.navigacio {
+	background-color: rgb(172, 172, 172);
+	overflow: hidden;
+	border: 5px black solid;
+}
+
+.navigacio a {
+	float: left;
+	color: black;
+	text-align: center;
+	padding:10px 15px;
+	margin-left: 2%;
+	font-size: 17px;
+    text-decoration: none;
+}
+
+.navigacio a:hover {
+	background-color: whitesmoke;
+	color: black
+}
+
+.navigacio a:active {
+	background-color: red;
+	color: black;
+}
