@@ -14,21 +14,21 @@ body {
 
 .navigacio a {
 	float: left;
-	color: #f2f2f2;
+	color: black;
 	text-align: center;
-	padding:14px 16px;
+	padding:10px 15px;
 	margin-left: 2%;
 	font-size: 17px;
     text-decoration: none;
 }
 
 .navigacio a:hover {
-	background-color: #ddd;
+	background-color: whitesmoke;
 	color: black
 }
 
 .navigacio a:active {
-	background-color: #4CAF50;
+	background-color: red;
 	color: white
 }
 
