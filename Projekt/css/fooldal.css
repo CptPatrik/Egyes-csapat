@@ -28,7 +28,7 @@ body {
 }
 
 .navigacio a:active {
-	background-color: red;
+	background-color: #4CAF50;
 	color: white
 }
 
